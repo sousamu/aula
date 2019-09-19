@@ -1,2 +1,3 @@
-remolão da linha
+remoção da linha
 commit com o vscode
+teste edição no github
